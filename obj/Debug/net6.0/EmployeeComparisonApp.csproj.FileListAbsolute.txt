@@ -1,0 +1,17 @@
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\EmployeeComparisonApp.exe
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\EmployeeComparisonApp.deps.json
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\EmployeeComparisonApp.runtimeconfig.json
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\EmployeeComparisonApp.dll
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\EmployeeComparisonApp.pdb
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.AssemblyInfoInputs.cache
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.AssemblyInfo.cs
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\Employee.AD1F2D00.Up2Date
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.dll
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\refint\EmployeeComparisonApp.dll
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.pdb
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\EmployeeComparisonApp.genruntimeconfig.cache
+C:\Users\markjptolentino\Desktop\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\net6.0\ref\EmployeeComparisonApp.dll
